@@ -56,11 +56,10 @@ Objective: Present insights from Tasks 1 and 2 in a client-facing presentation t
 
 ---
 
-### Summary  
-The simulation provided practical experience in:  
+### Key Takeaways: 
 - Data cleaning and preparation.  
 - Customer segmentation and behavior analysis.  
 - Experiment design and uplift testing.  
 - Presenting actionable insights through a commercial lens.  
 
-This project showcases my ability to translate complex datasets into meaningful recommendations for business growth and decision-making.
+This internship experience showcases my ability to translate complex datasets into meaningful recommendations for business growth and decision-making.
