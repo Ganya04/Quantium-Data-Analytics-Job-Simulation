@@ -2,7 +2,7 @@
 Quantium-Data-Analytics-Job-Simulation Virtual Internship
 
 Certificate
-Successfully completed the [Quantium-Data-Analytics-Job-Simulation Virtual Internship](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_SQGDnrwM5WzFRzJXZ_1731011760094_completion_certificate.pdf) program, showcasing skills in data analysis, visualization, and storytelling to deliver actionable business insights.
+Completed the [Quantium-Data-Analytics-Job-Simulation Virtual Internship](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_SQGDnrwM5WzFRzJXZ_1731011760094_completion_certificate.pdf) program, showcasing skills in data analysis, visualization, and storytelling to deliver actionable business insights.
 
 The simulation comprised three tasks:  
 1. **Task 1**: Data preparation and customer analytics.  
